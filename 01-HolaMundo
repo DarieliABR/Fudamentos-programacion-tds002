@@ -5,8 +5,8 @@ string frase = " Never give up ";
 string linea = new string ('=',46);
 
 Console.WriteLine ("*" + linea + "*");
-Console.WriteLine (" |Nombre:    " + nombre.PadRight(38) + "|");
-Console.WriteLine (" |Matrícula: " + matricula.PadRight(38) + "|");
-Console.WriteLine (" |Carrera:   " + carrera.PadRight(38) + "|");
-Console.WriteLine (" |Frase:     " + frase.PadRight(38) + "|");
+Console.WriteLine (" |Nombre:   " + nombre.PadRight(38) + "|");
+Console.WriteLine (" |Matrícula:" + matricula.PadRight(38) + "|");
+Console.WriteLine (" |Carrera:  " + carrera.PadRight(38) + "|");
+Console.WriteLine (" |Frase:    " + frase.PadRight(38) + "|");
 Console.WriteLine ("*" + (linea) + "*");
