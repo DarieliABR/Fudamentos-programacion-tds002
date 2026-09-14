@@ -10,4 +10,4 @@
 ## Tareas y Prácticas
 | Semana | Carpeta | Nombre de la tarea |
 | :--- | :--- | :--- |
-| Semana 1 | `01-HolaMundo` | Hola Mundo y presentación en C# |
+| Semana 1 | `01-HolaMundo` | Nivel 0 + Hola Mundo|
